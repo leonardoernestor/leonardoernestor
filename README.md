@@ -7,7 +7,7 @@
 </li>
 ### **Estatíticas no Github
 
-![leonardoernestor GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoernestor&show_icons=true&theme=radical_private=true)
+![leonardoernestor GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoernestor&show_icons=true&theme=dark)
 
 
 
