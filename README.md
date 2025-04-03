@@ -1,5 +1,9 @@
 ## Olá eu sou Leonardo Ernesto (leonardoernestor) 👋
 Design de Games - Leobyte tecnologia
+### **Estatíticas no Github
+
+
+
 
 <!--
 **leonardoernestor/leonardoernestor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
