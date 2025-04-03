@@ -1,17 +1,23 @@
 ## Olá eu sou Leonardo Ernesto (leonardoernestor) 👋
 
-📫 Atuação Proficional 
-<li>
-  <lu> Design de Games - Leobyte tecnologia</lu>
-  <lu> Front End</lu>
-</li>
+💫 Um pouco mais sobre mim
+📫 Como entrar em contato comigo? leonardoernestor@gmail.com  
+👥 Conecte-se comigo   <a href="https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/">
+            <button>LinkedIn</button>
+            </a>
+<lu>
+  <li>Design de Games </li>
+   <li>Front End</li>
+    <li>back end</li>
+    <li>Ti</li>
+     </lu>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/leonardoernestor/github-readme-stats)
-### **Estatíticas no Github
+
+  <h2>📊 Estatísticas no GitHub</h2>
 
 ![leonardoernestor GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoernestor&show_icons=true&theme=dark)
-
-
 
 
 
