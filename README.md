@@ -1,6 +1,12 @@
 ## Olá eu sou Leonardo Ernesto (leonardoernestor) 👋
-Design de Games - Leobyte tecnologia
+
+📫 Atuação Proficional 
+<li>
+  <lu> Design de Games - Leobyte tecnologia</lu>
+  <lu> Front End</lu>
+</li>
 ### **Estatíticas no Github
+![leonardoernestor GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoernestor&hide=contribs,prs)
 
 
 
