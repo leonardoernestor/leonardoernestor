@@ -5,9 +5,15 @@
   <lu> Design de Games - Leobyte tecnologia</lu>
   <lu> Front End</lu>
 </li>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/leonardoernestor/github-readme-stats)
 ### **Estatíticas no Github
 
 ![leonardoernestor GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoernestor&show_icons=true&theme=dark)
+
+
+
+
 
 
 
