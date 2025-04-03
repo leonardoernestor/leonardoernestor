@@ -6,8 +6,8 @@
   <lu> Front End</lu>
 </li>
 ### **Estatíticas no Github
-![leonardoernestor GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoernestor&hide=contribs,prs)
 
+![leonardoernestor GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoernestor&hide=contribs,prs)
 
 
 
