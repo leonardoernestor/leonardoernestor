@@ -13,7 +13,7 @@
      </lu>
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/leonardoernestor/github-readme-stats)
 
   <h2>📊 Estatísticas no GitHub</h2>
 
