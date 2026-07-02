@@ -1,40 +1,58 @@
-## Olá eu sou Leonardo Ernesto (leonardoernestor) 👋
+<h1 align="center">Olá, eu sou o Leonardo Ernesto Rodrigues 👋</h1>
 
-💫 Um pouco mais sobre mim
-📫 Como entrar em contato comigo? leonardoernestor@gmail.com  
-👥 Conecte-se comigo   <a href="https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/">
-            <img src="https://camo.githubusercontent.com/0c59c81be6c6e981fbad69ea742692368b3fdc1018090a34cb7764dfea5a1a91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" height="30px" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-            </a>
-<lu>
-  <li>Design de Games </li>
-   <li>Front End</li>
-    <li>back end</li>
-    <li>Ti</li>
-     </lu>
+<p align="center">
+  🎵 Professor de Música & 💻 Profissional de TI  
+</p>
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/leonardoernestor/github-readme-stats)
+## Sobre mim
 
-  <h2>📊 Estatísticas no GitHub</h2>
+- Sou professor de música, atuando com guitarra, teclado, canto e teoria musical.
+- Trabalho também com suporte de TI, manutenção de computadores e automação de rotinas.
+- Tenho experiência em sistemas Windows, Linux e macOS, scripts em PowerShell e Bash.
+- Estou sempre estudando novas tecnologias, automação, redes e desenvolvimento web.
 
-![leonardoernestor GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardoernestor&show_icons=true&theme=dark)
+## O que eu faço hoje
 
+- Aulas de música (instrumentos, teoria e prática de banda).
+- Suporte técnico e administração de sistemas em ambientes corporativos.
+- Criação de scripts para automatizar tarefas de suporte e deploy.
+- Produção de conteúdo educativo sobre tecnologia e música.
 
+## Tecnologias e ferramentas
 
+- **Linguagens & Scripting:** PowerShell, Bash, JavaScript, Python (aprendendo), C#
+- **Sistemas Operacionais:** Windows, Linux (Ubuntu/Debian), macOS
+- **Ferramentas:** Git, GitHub, NinjaOne, Google Workspace, Microsoft 365
+- **Música & Áudio:** softwares de gravação, edição e produção musical
 
+## Projetos em destaque
 
+- 🎹 Materiais e exercícios para ensino de música.
+- 💻 Scripts de automação para suporte e manutenção de sistemas.
+- 🌐 Pequenos projetos web e estudos de desenvolvimento front-end.
+- 📚 Conteúdos e tutoriais voltados para quem está começando em TI e música.
 
-<!--
-**leonardoernestor/leonardoernestor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Estatísticas do GitHub
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> `leonardoernestor`
+
+## Onde me encontrar
+
+- 💼 LinkedIn:  
+  [https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/](https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/)  
+- 🧑‍💻 GitHub:  
+  [https://github.com//leonardoernestor](https://github.com//leonardoernestor)  
+- 📧 E-mail (leonadoernestor@gmail.com)
+
+---
+
+<p align="center">
+  <b>Obrigado por visitar meu perfil! 🎶💻</b>
+</p>
