@@ -41,6 +41,7 @@
   </a>
 </div>
 
+> `leonardoernestor`
 
 ## Onde me encontrar
 
@@ -51,6 +52,5 @@
 ---
 
 **Obrigado por visitar meu perfil! 🎶💻**
-
 
 
