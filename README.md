@@ -41,7 +41,6 @@
   </a>
 </div>
 
-> `leonardoernestor`
 
 ## Onde me encontrar
 
@@ -54,6 +53,4 @@
 **Obrigado por visitar meu perfil! 🎶💻**
 
 
-    <footer class="center">
-        <strong>Obrigado por visitar meu perfil! 🎶💻</strong>
-    </footer>
+
