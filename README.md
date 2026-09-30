@@ -66,6 +66,10 @@ Estatísticas baseadas nos dados públicos do GitHub. Os cartões são clicávei
 
 Tenho trabalhado em materiais de ensino musical, automações para suporte e pequenos projetos web. [Veja meus repositórios no GitHub](https://github.com/leonardoernestor?tab=repositories) para acompanhar o que está público por lá.
 
+## Perguntas de TI com IA
+
+Tem uma dúvida de TI? [Envie sua pergunta](https://github.com/leonardoernestor/leonardoernestor/issues/new?template=ti-question.yml) pelo GitHub. A IA responde na própria Issue; não inclua senhas, tokens ou outros dados sensíveis.
+
 ---
 
 <div align="center">
