@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:102a43,100:0f766e&height=190&section=header&text=Leonardo%20Ernesto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=M%C3%BAsica%20%7C%20Tecnologia%20%7C%20Automa%C3%A7%C3%A3o&descAlignY=62&descSize=16" alt="Cabeçalho: Leonardo Ernesto, música, tecnologia e automação" />
 </div>
@@ -9,6 +11,17 @@
 </div>
 
 <div align="center">
+  <a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
+  <a href="#areas-de-atuacao">Atuação</a> &nbsp;·&nbsp;
+  <a href="#tecnologias-e-ferramentas">Tecnologias</a> &nbsp;·&nbsp;
+  <a href="#github-em-atividade">GitHub</a> &nbsp;·&nbsp;
+  <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
+  <a href="#contato">Contato</a>
+</div>
+
+<br />
+
+<div align="center">
   <a href="https://github.com/leonardoernestor?tab=repositories"><img src="https://img.shields.io/badge/Projetos-explorar_reposit%C3%B3rios-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios no GitHub" /></a>
   <a href="https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/"><img src="https://img.shields.io/badge/LinkedIn-conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
   <a href="mailto:leonadoernestor@gmail.com"><img src="https://img.shields.io/badge/E--mail-fale_comigo-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
@@ -16,7 +29,7 @@
 
 ## Sobre mim
 
-Sou professor de música, com atuação em guitarra, teclado, canto e teoria musical, e também trabalho com suporte de TI, manutenção de computadores e automação de rotinas.
+Sou professor de música, com atuação em guitarra, teclado, canto e teoria musical, e também trabalho com suporte de TI, manutenção de computadores e automação de rotinas. Gosto de aproximar criatividade e tecnologia para resolver problemas e compartilhar conhecimento.
 
 <details>
   <summary><strong>Mais sobre mim</strong></summary>
@@ -29,17 +42,25 @@ Sou professor de música, com atuação em guitarra, teclado, canto e teoria mus
   </ul>
 </details>
 
+## Áreas de atuação
+
+| Música | Tecnologia |
+|:--|:--|
+| Guitarra, teclado e canto | Suporte técnico e manutenção |
+| Teoria musical e ensino | Automação com PowerShell e Bash |
+| Produção de conteúdo educativo | Windows, Linux e macOS |
+
 ## Tecnologias e ferramentas
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,bash,powershell,js,python,cs,git,github&perline=9" alt="Windows, Linux, Bash, PowerShell, JavaScript, Python, C sharp, Git e GitHub" />
 </div>
 
-Também trabalho com NinjaOne, Google Workspace, Microsoft 365 e ferramentas de áudio e produção musical.
+<p align="center">Também trabalho com NinjaOne, Google Workspace, Microsoft 365 e ferramentas de áudio e produção musical.</p>
 
 ## GitHub em atividade
 
-Estatísticas baseadas nos dados públicos do GitHub. Os cartões são clicáveis e levam ao meu perfil ou aos meus repositórios.
+Estatísticas baseadas nos dados públicos do GitHub. Clique nos cartões para acessar meu perfil e meus repositórios.
 
 <div align="center">
   <a href="https://github.com/leonardoernestor">
@@ -64,15 +85,25 @@ Estatísticas baseadas nos dados públicos do GitHub. Os cartões são clicávei
 
 ## Projetos
 
-Tenho trabalhado em materiais de ensino musical, automações para suporte e pequenos projetos web. [Veja meus repositórios no GitHub](https://github.com/leonardoernestor?tab=repositories) para acompanhar o que está público por lá.
-
----
+Tenho trabalhado em materiais de ensino musical, automações para suporte e pequenos projetos web. Confira o que está público:
 
 <div align="center">
-  <a href="https://github.com/leonardoernestor">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/">LinkedIn</a> ·
-  <a href="mailto:leonadoernestor@gmail.com">E-mail</a>
+  <a href="https://github.com/leonardoernestor?tab=repositories"><img src="https://img.shields.io/badge/Ver_todos_os_projetos-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os projetos no GitHub" /></a>
+</div>
+
+## Contato
+
+Se quiser conversar sobre música, tecnologia ou automação, entre em contato:
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/"><img src="https://img.shields.io/badge/LinkedIn-conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
+  <a href="mailto:leonadoernestor@gmail.com"><img src="https://img.shields.io/badge/E--mail-fale_comigo-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="#readme-top">Voltar ao topo ↑</a>
   <br /><br />
   <strong>Obrigado por visitar meu perfil! 🎶💻</strong>
 </div>
-
