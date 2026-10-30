@@ -11,17 +11,8 @@
 </div>
 
 <div align="center">
-  <a href="#sobre-mim">Sobre mim</a> &nbsp;·&nbsp;
-  <a href="#areas-de-atuacao">Atuação</a> &nbsp;·&nbsp;
-  <a href="#tecnologias-e-ferramentas">Tecnologias</a> &nbsp;·&nbsp;
-  <a href="#github-em-atividade">GitHub</a> &nbsp;·&nbsp;
-  <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
-  <a href="#contato">Contato</a>
-</div>
-
-<br />
-
-<div align="center">
+  <a href="#sobre-mim"><img src="https://img.shields.io/badge/Sobre_mim-0f766e?style=for-the-badge" alt="Sobre mim" /></a>
+  <a href="#projetos"><img src="https://img.shields.io/badge/Projetos-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos" /></a>
   <a href="https://github.com/leonardoernestor?tab=repositories"><img src="https://img.shields.io/badge/Projetos-explorar_reposit%C3%B3rios-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios no GitHub" /></a>
   <a href="https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/"><img src="https://img.shields.io/badge/LinkedIn-conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
   <a href="mailto:leonadoernestor@gmail.com"><img src="https://img.shields.io/badge/E--mail-fale_comigo-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
@@ -60,26 +51,20 @@ Sou professor de música, com atuação em guitarra, teclado, canto e teoria mus
 
 ## GitHub em atividade
 
-Estatísticas baseadas nos dados públicos do GitHub. Clique nos cartões para acessar meu perfil e meus repositórios.
+Clique nos cartões para ver meu perfil, explorar as linguagens dos repositórios e acompanhar minhas contribuições no GitHub.
 
 <div align="center">
   <a href="https://github.com/leonardoernestor">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=leonardoernestor&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="Estatísticas públicas do GitHub" />
+    <img width="49%" src="./assets/github-estatisticas.svg" alt="Ver estatísticas públicas do GitHub" />
   </a>
   <a href="https://github.com/leonardoernestor?tab=repositories">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoernestor&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas nos repositórios públicos" />
+    <img width="49%" src="./assets/github-linguagens.svg" alt="Explorar linguagens usadas nos repositórios públicos" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/leonardoernestor">
-    <img width="70%" src="https://streak-stats.demolab.com?user=leonardoernestor&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições públicas no GitHub" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/leonardoernestor">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoernestor&theme=tokyo-night&hide_border=true" alt="Gráfico de atividade pública no GitHub" />
+    <img width="95%" src="./assets/github-atividade.svg" alt="Acompanhar atividade pública no GitHub" />
   </a>
 </div>
 
@@ -103,7 +88,7 @@ Se quiser conversar sobre música, tecnologia ou automação, entre em contato:
 <br />
 
 <div align="center">
-  <a href="#readme-top">Voltar ao topo ↑</a>
+  <a href="#readme-top"><img src="https://img.shields.io/badge/Voltar_ao_in%C3%ADcio-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Voltar ao início" /></a>
   <br /><br />
   <strong>Obrigado por visitar meu perfil! 🎶💻</strong>
 </div>
