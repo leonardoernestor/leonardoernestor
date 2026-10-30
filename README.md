@@ -51,20 +51,20 @@ Sou professor de música, com atuação em guitarra, teclado, canto e teoria mus
 
 ## GitHub em atividade
 
-Clique nos cartões para ver meu perfil, explorar as linguagens dos repositórios e acompanhar minhas contribuições no GitHub.
+Os cartões mostram estatísticas atualizadas do perfil, linguagens dos repositórios e um gráfico da atividade pública. Clique em cada um para abrir a página correspondente no GitHub.
 
 <div align="center">
   <a href="https://github.com/leonardoernestor">
-    <img width="49%" src="./assets/github-estatisticas.svg" alt="Ver estatísticas públicas do GitHub" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardoernestor&theme=tokyonight" alt="Estatísticas públicas atualizadas do GitHub" />
   </a>
   <a href="https://github.com/leonardoernestor?tab=repositories">
-    <img width="49%" src="./assets/github-linguagens.svg" alt="Explorar linguagens usadas nos repositórios públicos" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardoernestor&theme=tokyonight" alt="Linguagens usadas nos repositórios públicos" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/leonardoernestor">
-    <img width="95%" src="./assets/github-atividade.svg" alt="Acompanhar atividade pública no GitHub" />
+  <a href="https://github.com/leonardoernestor#year-activity-graph">
+    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardoernestor&theme=tokyonight" alt="Gráfico de atividade pública no GitHub" />
   </a>
 </div>
 
