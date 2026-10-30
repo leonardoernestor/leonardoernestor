@@ -59,16 +59,19 @@ Os cartões mostram estatísticas atualizadas do perfil, linguagens dos reposit�
 
 <div align="center">
   <a href="https://github.com/leonardoernestor">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardoernestor&theme=tokyonight" alt="Estatísticas públicas atualizadas do GitHub" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardoernestor&theme=tokyonight" alt="Estatísticas públicas atualizadas do GitHub" />
   </a>
+</div>
+
+<div align="center">
   <a href="https://github.com/leonardoernestor?tab=repositories">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardoernestor&theme=tokyonight" alt="Linguagens usadas nos repositórios públicos" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardoernestor&theme=tokyonight" alt="Linguagens usadas nos repositórios públicos" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/leonardoernestor#year-activity-graph">
-    <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardoernestor&theme=tokyonight" alt="Gráfico de atividade pública no GitHub" />
+    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardoernestor&theme=tokyonight" alt="Gráfico de atividade pública no GitHub" />
   </a>
 </div>
 
