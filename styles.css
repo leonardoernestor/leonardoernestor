@@ -135,6 +135,30 @@ h2 { margin: 0 0 1.25rem; font-size: clamp(1.7rem, 4vw, 2.25rem); letter-spacing
 .contact-card { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1.5rem; }
 .contact-card p { margin: 0; color: var(--muted); }
 
+.contact-form { display: grid; width: 100%; gap: 1rem; }
+
+.form-row { display: grid; gap: .4rem; }
+
+.form-row label { font-weight: 650; }
+
+.form-row input, .form-row textarea {
+  width: 100%;
+  padding: .8rem .9rem;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: rgba(8, 21, 34, .72);
+  color: var(--text);
+  font: inherit;
+}
+
+.form-row textarea { min-height: 150px; resize: vertical; }
+.form-row input:focus, .form-row textarea:focus { border-color: var(--accent); outline: 2px solid rgba(94, 234, 212, .25); }
+
+.form-actions { display: flex; flex-wrap: wrap; gap: .75rem; }
+.form-actions button { font: inherit; cursor: pointer; }
+.form-note { margin: 0; color: var(--muted); font-size: .9rem; }
+.form-honeypot { position: absolute; left: -10000px; width: 1px; height: 1px; }
+
 footer { padding-block: 2rem; color: var(--muted); text-align: center; }
 footer p { margin: .8rem 0 0; }
 :focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
