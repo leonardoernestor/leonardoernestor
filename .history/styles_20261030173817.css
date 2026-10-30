@@ -1,0 +1,317 @@
+/* ==========================================================================
+   1. VARIÁVEIS DE CORES E CONFIGURAÇÕES GERAIS
+   ========================================================================== */
+:root {
+  --bg-principal: #0b1a29;       /* Fundo escuro profundo e moderno */
+  --bg-card: rgba(16, 42, 67, 0.4); /* Efeito vidro transparente */
+  --cor-borda: rgba(255, 255, 255, 0.08);
+  
+  --primary: #48bb78;            /* Verde vibrante para botões principais */
+  --primary-hover: #38a169;
+  --secondary: #102a43;          /* Tom de azul escuro do seu tema anterior */
+  --text-main: #f5f7fa;          /* Texto principal quase branco */
+  --text-muted: #9fb3c8;         /* Texto secundário cinza azulado legível */
+  
+  --transicao: all 0.3s ease-in-out;
+  --radius: 12px;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+body {
+  background-color: var(--bg-principal);
+  color: var(--text-main);
+  line-height: 1.6;
+}
+
+.container {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* ==========================================================================
+   2. NAVEGAÇÃO COMPATÍVEL COM CELULAR (RESPONSIVA)
+   ========================================================================== */
+.nav-wrap {
+  background: rgba(11, 26, 41, 0.85);
+  backdrop-filter: blur(12px); /* Efeito blur na barra superior */
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid var(--cor-borda);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 0;
+}
+
+.brand {
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: var(--text-main);
+  text-decoration: none;
+}
+
+.nav-links {
+  display: flex;
+  gap: 2rem;
+}
+
+.nav-links a {
+  color: var(--text-muted);
+  text-decoration: none;
+  font-weight: 500;
+  transition: var(--transicao);
+}
+
+.nav-links a:hover {
+  color: var(--text-main);
+}
+
+.menu-toggle {
+  display: none; /* Escondido por padrão no PC */
+}
+
+/* ==========================================================================
+   3. SEÇÃO HERO (INTRODUÇÃO IMPACTANTE)
+   ========================================================================== */
+.hero {
+  padding: 8rem 0 5rem 0;
+  text-align: center;
+}
+
+.eyebrow {
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.hero h1 {
+  font-size: clamp(2.5rem, 5vw, 4rem); /* Tamanho de fonte fluido */
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  font-weight: 800;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  max-width: 700px;
+  margin: 0 auto 2.5rem auto;
+}
+
+.actions {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+}
+
+/* ==========================================================================
+   4. COMPONENTES REUTILIZÁVEIS: BOTÕES E CARDS (GLASSMORPHISM)
+   ========================================================================== */
+.button {
+  padding: 0.8rem 1.8rem;
+  border-radius: var(--radius);
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: var(--transicao);
+}
+
+.button.primary {
+  background-color: var(--primary);
+  color: #fff;
+}
+
+.button.primary:hover {
+  background-color: var(--primary-hover);
+}
+
+.button:not(.primary) {
+  background-color: rgba(255, 255, 255, 0.05);
+  color: var(--text-main);
+  border-color: var(--cor-borda);
+}
+
+.button:not(.primary):hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.card {
+  background: var(--bg-card);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--cor-borda);
+  border-radius: var(--radius);
+  padding: 2.5rem;
+  transition: var(--transicao);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  border-color: rgba(72, 187, 120, 0.3); /* Brilho verde sutil ao passar o mouse */
+}
+
+/* ==========================================================================
+   5. SEÇÕES DO SITE E GRID DINÂMICO
+   ========================================================================== */
+main section {
+  padding: 5rem 0;
+}
+
+h2 {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  position: relative;
+  display: inline-block;
+}
+
+/* Grid Inteligente: Se ajusta automaticamente conforme o espaço disponível */
+.about-grid, .stats-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.lead {
+  font-size: 1.2rem;
+  color: var(--text-muted);
+  margin-bottom: 2rem;
+}
+
+.tech-icons {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 2rem;
+}
+
+.center {
+  text-align: center;
+}
+
+/* ==========================================================================
+   6. FORMULÁRIO DE CONTATO MODERNO
+   ========================================================================== */
+.contact-card {
+  max-width: 650px;
+  margin: 0 auto;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.form-row {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  text-align: left;
+}
+
+.form-row label {
+  font-weight: 500;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+  background: rgba(0, 0, 0, 0.2);
+  border: 1px solid var(--cor-borda);
+  border-radius: var(--radius);
+  padding: 0.8rem 1rem;
+  color: var(--text-main);
+  font-family: inherit;
+  font-size: 1rem;
+  transition: var(--transicao);
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(72, 187, 120, 0.15);
+}
+
+.form-actions {
+  display: flex;
+  gap: 1rem;
+}
+
+.form-actions button {
+  flex: 1;
+}
+
+.form-note {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.form-honeypot {
+  display: none !important;
+}
+
+/* ==========================================================================
+   7. RODAPÉ ESTILIZADO
+   ========================================================================== */
+footer {
+  text-align: center;
+  padding: 4rem 1rem;
+  border-top: 1px solid var(--cor-borda);
+}
+
+footer .button {
+  margin-bottom: 2rem;
+}
+
+footer p {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
+
+/* ==========================================================================
+   8. MEDIA QUERIES (ADAPTAÇÃO ADICIONAL PARA DISPOSITIVOS MÓVEIS)
+   ========================================================================== */
+@media (max-width: 768px) {
+  .nav-links {
+    display: none; /* Esconde links no mobile (ideal implementar menu hambúrguer depois) */
+  }
+  
+  .hero {
+    padding: 5rem 0 3rem 0;
+  }
+  
+  .actions {
+    flex-direction: column;
+  }
+  
+  .card {
+    padding: 1.5rem;
+  }
+  
+  .form-actions {
+    flex-direction: column-reverse;
+  }
+}

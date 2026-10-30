@@ -1,33 +1,24 @@
-const menuToggle = document.querySelector(".menu-toggle");
-const menu = document.querySelector("#menu-principal");
-const mobileViewport = window.matchMedia("(max-width: 680px)");
+document.addEventListener('DOMContentLoaded', () => {
+  const menuToggle = document.querySelector('.menu-toggle');
+  const navLinks = document.querySelector('.nav-links');
 
-if (menuToggle && menu) {
-  document.documentElement.classList.add("js-enabled");
+  if (menuToggle && navLinks) {
+    menuToggle.addEventListener('click', () => {
+      // Verifica se o menu está aberto mudando o atributo de acessibilidade
+      const estahAberto = menuToggle.getAttribute('aria-expanded') === 'true';
+      
+      // Alterna o estado
+      menuToggle.setAttribute('aria-expanded', !estahAberto);
+      navLinks.classList.toggle('active');
+    });
 
-  const closeMenu = () => {
-    menu.classList.remove("is-open");
-    menuToggle.setAttribute("aria-expanded", "false");
-  };
-
-  menuToggle.addEventListener("click", () => {
-    const isOpen = menuToggle.getAttribute("aria-expanded") === "true";
-    menu.classList.toggle("is-open", !isOpen);
-    menuToggle.setAttribute("aria-expanded", String(!isOpen));
-  });
-
-  menu.addEventListener("click", (event) => {
-    if (event.target instanceof Element && event.target.closest("a")) {
-      closeMenu();
-    }
-  });
-
-  document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") {
-      closeMenu();
-      menuToggle.focus();
-    }
-  });
-
-  mobileViewport.addEventListener("change", closeMenu);
-}
+    // Fecha o menu automaticamente ao clicar em qualquer link (para rolar até a seção)
+    const links = navLinks.querySelectorAll('a');
+    links.forEach(link => {
+      link.addEventListener('click', () => {
+        menuToggle.setAttribute('aria-expanded', 'false');
+        navLinks.classList.remove('active');
+      });
+    });
+  }
+});
