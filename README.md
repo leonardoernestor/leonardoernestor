@@ -11,6 +11,10 @@
 </div>
 
 <div align="center">
+  <a href="https://leonardoernestor.github.io/leonardoernestor/"><img src="https://img.shields.io/badge/Acessar_site-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Acessar meu site pessoal" /></a>
+</div>
+
+<div align="center">
   <a href="#sobre-mim"><img src="https://img.shields.io/badge/Sobre_mim-0f766e?style=for-the-badge" alt="Sobre mim" /></a>
   <a href="#projetos"><img src="https://img.shields.io/badge/Projetos-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos" /></a>
   <a href="https://github.com/leonardoernestor?tab=repositories"><img src="https://img.shields.io/badge/Projetos-explorar_reposit%C3%B3rios-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios no GitHub" /></a>
