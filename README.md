@@ -19,7 +19,7 @@
   <a href="#projetos"><img src="https://img.shields.io/badge/Projetos-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Ver projetos" /></a>
   <a href="https://github.com/leonardoernestor?tab=repositories"><img src="https://img.shields.io/badge/Projetos-explorar_reposit%C3%B3rios-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Explorar repositórios no GitHub" /></a>
   <a href="https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/"><img src="https://img.shields.io/badge/LinkedIn-conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
-  <a href="mailto:leonadoernestor@gmail.com"><img src="https://img.shields.io/badge/E--mail-fale_comigo-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=leonardoernestor%40gmail.com"><img src="https://img.shields.io/badge/E--mail-fale_comigo-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
 </div>
 
 ## Sobre mim
@@ -86,7 +86,7 @@ Se quiser conversar sobre música, tecnologia ou automação, entre em contato:
 
 <div align="center">
   <a href="https://www.linkedin.com/in/leonardo-ernestor-454b8aa6/"><img src="https://img.shields.io/badge/LinkedIn-conecte--se-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conectar no LinkedIn" /></a>
-  <a href="mailto:leonadoernestor@gmail.com"><img src="https://img.shields.io/badge/E--mail-fale_comigo-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=leonardoernestor%40gmail.com"><img src="https://img.shields.io/badge/E--mail-fale_comigo-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail" /></a>
 </div>
 
 <br />
