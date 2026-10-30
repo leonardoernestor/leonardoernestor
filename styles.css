@@ -200,3 +200,22 @@ footer p { margin: .8rem 0 0; }
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; transition-duration: .01ms !important; }
 }
+footer {
+  text-align: center;
+  padding: 3rem 1rem;
+  margin-top: 4rem;
+  border-top: 1px solid rgba(16, 42, 67, 0.1); /* Linha sutil separando o rodapé */
+}
+
+footer .button {
+  margin-bottom: 1.5rem;
+  display: inline-block;
+}
+
+/* Estilização para o texto de direitos autorais e agradecimento */
+footer p {
+  color: #627d98; /* Um tom de cinza azulado suave, ótimo para leitura */
+  font-size: 0.9rem; /* Texto levemente menor para criar hierarquia visual */
+  margin: 0.5rem 0;
+  line-height: 1.5;
+}
